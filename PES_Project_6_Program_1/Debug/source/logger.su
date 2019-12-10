@@ -1,0 +1,5 @@
+logger.c:25:6:log_Level	16	static
+logger.c:39:6:log_Str	16	static
+logger.c:64:6:log_Int	16	static
+logger.c:70:6:log_Char	16	static
+logger.c:76:6:log_string	16	static

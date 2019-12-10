@@ -1,0 +1,13 @@
+circular_buffer.c:27:6:buf_reset	16	static
+circular_buffer.c:35:12:buf_init	24	static
+circular_buffer.c:48:12:buf_verify	16	static
+circular_buffer.c:57:12:ptr_validity	16	static
+circular_buffer.c:66:12:buf_free	16	static
+circular_buffer.c:75:6:buf_full	16	static
+circular_buffer.c:81:6:buf_empty	16	static
+circular_buffer.c:87:8:buf_size	16	static
+circular_buffer.c:98:6:inc_ptr	16	static
+circular_buffer.c:109:6:dec_ptr	16	static
+circular_buffer.c:117:12:buf_write	16	static
+circular_buffer.c:129:12:buf_read	16	static
+circular_buffer.c:141:6:buf_print	24	static
